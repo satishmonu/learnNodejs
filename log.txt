@@ -1,0 +1,33 @@
+1710234664270: GET: /api/users/1 
+1710234667443: GET: /api/users/10 
+1710234697499: POST: /api/users 
+
+1710234797031: POST: /api/users
+1710234834517: GET: /api/users/10
+1710234899970: ::1 GET: /api/users
+1710234906083: ::1 GET: /api/users/101
+1710234948662: ::1 GET: /users
+1710234998266: ::1 POST: /api/users
+1710254264015: ::1 GET: /api/users
+1710254277624: ::1 GET: /users
+1710254279213: ::1 GET: /users
+1710254874073: ::1 GET: /api/users
+1710254875133: ::1 GET: /api/users
+1710254876189: ::1 GET: /api/users
+1710254894928: ::1 GET: /api/users
+1710254895666: ::1 GET: /api/users
+1710254995952: ::1 GET: /api/users
+1710255006190: ::1 GET: /api/users/65f04d3f6ab2934e6953d4c0
+1710255015244: ::1 GET: /users
+1710255016563: ::1 GET: /users
+1710255284263: ::1 POST: /api/users
+1710255288782: ::1 GET: /api/users
+1710255297561: ::1 GET: /api/users/65f06cb4eeda0fede3502c0e
+1710255304422: ::1 DELETE: /api/users/65f06cb4eeda0fede3502c0e
+1710255307351: ::1 GET: /api/users
+1710351747376: ::1 GET: /api/users
+1710351748099: ::1 GET: /api/users
+1710351751312: ::1 GET: /api/users/65f06cb4eeda0fede3502c0e
+1710351752715: ::1 GET: /api/users/65f06cb4eeda0fede3502c0e
+1710351759590: ::1 GET: /api/users
+1710351768294: ::1 GET: /api/users/65f04d3f6ab2934e6953d4c0
